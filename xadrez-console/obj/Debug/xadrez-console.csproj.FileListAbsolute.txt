@@ -1,0 +1,8 @@
+C:\Users\ferna\OneDrive\Área de Trabalho\xadrez-console-master\xadrez-console\xadrez-console\bin\Debug\xadrez-console.exe.config
+C:\Users\ferna\OneDrive\Área de Trabalho\xadrez-console-master\xadrez-console\xadrez-console\bin\Debug\xadrez-console.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\xadrez-console-master\xadrez-console\xadrez-console\bin\Debug\xadrez-console.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\xadrez-console-master\xadrez-console\xadrez-console\obj\Debug\xadrez-console.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\xadrez-console-master\xadrez-console\xadrez-console\obj\Debug\xadrez-console.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\xadrez-console-master\xadrez-console\xadrez-console\obj\Debug\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\xadrez-console-master\xadrez-console\xadrez-console\obj\Debug\xadrez-console.exe
+C:\Users\ferna\OneDrive\Área de Trabalho\xadrez-console-master\xadrez-console\xadrez-console\obj\Debug\xadrez-console.pdb
